@@ -1,0 +1,4 @@
+﻿  UnitTest3.3E.cpp
+D:\Lab-3\3.3E\3.3E\Date.cpp(50): warning C4715: Date::Сomparison: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Lab-3\3.3E\Debug\UnitTest3.3E.lib и объект D:\Lab-3\3.3E\Debug\UnitTest3.3E.exp
+  UnitTest3.3E.vcxproj -> D:\Lab-3\3.3E\Debug\UnitTest3.3E.dll
